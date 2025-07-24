@@ -162,7 +162,7 @@ This bot is for educational and informational purposes only. Trading in stocks, 
 
 For issues or questions:
 - Create an issue in this repository
-- Contact: [Your Contact Information]
+- Contact: [Pushpak Shrimal]
 
 ## 📄 License
 
