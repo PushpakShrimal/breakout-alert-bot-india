@@ -48,7 +48,7 @@
 
 ### **Environment Variables:**
 ```bash
-TELEGRAM_CHAT_ID=1113702328
+TELEGRAM_CHAT_ID=**********
 PYTHON_VERSION=3.11.0
 ```
 
